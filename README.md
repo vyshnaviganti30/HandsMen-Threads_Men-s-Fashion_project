@@ -19,7 +19,7 @@ This is a Salesforce DX project developed for a premium men's fashion brand. The
 
 ##  Project Documentation (PDF)
 
-📄 [Click to View Full Documentation](https://github.com/vyshnaviganta30/HandsMen-Threads_Men-s-fashion_project/raw/main/HandsMen_Threads_Salesforce_Documentation7.pdf)
+📄 [Click to View Full Documentation](https://github.com/vyshnaviganta30/HandsMen-Threads_Men-s-Fashion_project/raw/main/HandsMen_Threads_Salesforce_Documentation7.pdf)
 
 ## 🔗 GitHub Repository
 
